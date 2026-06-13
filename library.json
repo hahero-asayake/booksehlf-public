@@ -1,0 +1,25 @@
+{
+  "exportDate": "2026-06-13T11:11:33.551Z",
+  "books": [
+    {
+      "asin": "B07K8PT6BD",
+      "title": "ドロヘドロ（８） (IKKI　COMIX)",
+      "authors": "林田球",
+      "acquiredTime": 1705731627671,
+      "readStatus": "READ",
+      "productImage": "https://m.media-amazon.com/images/I/51ysRNj2LwL.jpg",
+      "source": "kindle_import",
+      "addedDate": 1779602493830
+    },
+    {
+      "asin": "B07K8QNMMH",
+      "title": "ドロヘドロ（１） (IKKI　COMIX)",
+      "authors": "林田球",
+      "acquiredTime": 1705731203158,
+      "readStatus": "READ",
+      "productImage": "https://m.media-amazon.com/images/I/61VI7mFvmKL.jpg",
+      "source": "kindle_import",
+      "addedDate": 1779602493830
+    }
+  ]
+}

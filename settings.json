@@ -1,0 +1,43 @@
+{
+  "version": "2.0",
+  "defaultView": "covers",
+  "showHighlights": true,
+  "currentBookshelf": "all",
+  "theme": "light",
+  "booksPerPage": 50,
+  "showImagesInOverview": false,
+  "coverSize": "small",
+  "enableSeriesGrouping": false,
+  "sortOrder": "custom",
+  "sortDirection": "desc",
+  "language": "ja",
+  "enabledPlugins": [
+    "dark-theme",
+    "author-grouping",
+    "hello-bookshelf",
+    "view-compact",
+    "view-coverflow",
+    "view-mosaic",
+    "view-spines",
+    "view-timeline"
+  ],
+  "memoOverrideDefault": "this-bookshelf-only",
+  "publishExportPath": null,
+  "disabledPlugins": [
+    "duplicate-detector",
+    "unrated-list",
+    "last-acquired",
+    "view-spines",
+    "memo-templates",
+    "reading-goal"
+  ],
+  "paneState": {
+    "left": false,
+    "right": false
+  },
+  "memoVisibility": "hover",
+  "starVisibility": "hover",
+  "starOverlay": true,
+  "hiddenPluginButtons": [],
+  "kindleOpenWith": "web"
+}

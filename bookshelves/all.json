@@ -1,0 +1,12 @@
+{
+  "internalId": "bv84kurw",
+  "slug": "all",
+  "name": "すべての本",
+  "isSpecial": true,
+  "isPublic": true,
+  "parent": null,
+  "books": [
+    "B07K8PT6BD",
+    "B07K8QNMMH"
+  ]
+}

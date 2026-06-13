@@ -1,0 +1,22 @@
+{
+  "bookshelves": [
+    {
+      "internalId": "bv84kurw",
+      "slug": "all",
+      "name": "すべての本",
+      "iconName": "library",
+      "isSpecial": true,
+      "isPublic": true,
+      "parent": null
+    },
+    {
+      "internalId": "zaxmh5j9",
+      "slug": "bookshelf1",
+      "name": "漫画",
+      "iconName": "㍼",
+      "parent": "bv84kurw",
+      "appliedPlugins": [],
+      "isPublic": true
+    }
+  ]
+}

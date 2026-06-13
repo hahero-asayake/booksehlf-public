@@ -1,0 +1,16 @@
+{
+  "internalId": "zaxmh5j9",
+  "slug": "bookshelf1",
+  "name": "漫画",
+  "iconName": "㍼",
+  "parent": "bv84kurw",
+  "books": [
+    "B07K8QNMMH",
+    "B07K8PT6BD"
+  ],
+  "notes": {
+    "B07K8QNMMH": {
+      "memo": "nyanyanya"
+    }
+  }
+}
